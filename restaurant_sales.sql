@@ -1,6 +1,6 @@
 /*
 Author: Ian Lim
-Script Date: June 11, 2023
+Script Date: March 11, 2024
 Description: Compute the moving average of how customers paid in a
 seven day window (i.e., current day + 6 days before)
 */
