@@ -1,6 +1,6 @@
 /*
 Author: Ian Lim
-Script Date: June 10, 2023
+Script Date: March 10, 2024
 Description: This query reports the managers with at least five direct reports.
 */
 
