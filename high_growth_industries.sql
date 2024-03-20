@@ -1,6 +1,6 @@
 /*
 Author: Ian Lim
-Script Date: May 5, 2023
+Script Date: Mar 20, 2024
 Description: This query returns the industry, the year, the number of
 companies in these industries that became unicorns each year in 2019, 2020, and
 2021, along with the average valuation per industry per year in order to
