@@ -1,6 +1,6 @@
 /*
 Author: Ian Lim
-Script Date: June 9, 2023
+Script Date: March 9, 2024
 Description: There is a factory website that has several machines each running
 the same number of processes. Write an SQL query to find the average time each
 machine takes to complete a process.
