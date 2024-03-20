@@ -1,6 +1,6 @@
 /*
 Author: Ian Lim
-Script Date: May 5, 2023
+Script Date: March 5, 2024
 Description: This query returns product_line, the month from
  date, displayed as 'June', 'July', and 'August', the warehouse, and
  net_revenue. This is to analyze motorcycle sales data by looking at wholesale
