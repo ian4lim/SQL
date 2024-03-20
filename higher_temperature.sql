@@ -1,7 +1,7 @@
 /*
 Author: Ian Lim
 Script Date: June 9, 2023
-Description: This query finds all dates' id with higher temperatures compared to its previous dates (yesterday)
+Description: This query finds all dates' id with higher temperatures compared to its previous dates (yesterday) using LAG
 */
 
 WITH cte AS(
