@@ -1,6 +1,6 @@
 /*
 Author: Ian Lim
-Script Date: May 5, 2023
+Script Date: March 5, 2024
 Description: This query shows how the length of stay of an international student
 impacts the average mental health diagnostic scores of depression (PHQ), social
 connectedness (SCS) and acculturative stress (AS)
