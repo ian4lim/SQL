@@ -1,6 +1,6 @@
 /*
 Author: Ian Lim
-Script Date: June 11, 2023
+Script Date: March 11, 2024
 Description: This query reports the fraction of players that logged in for at
 least two consecutive days starting from their first login date.
 */
