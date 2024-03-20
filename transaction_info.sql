@@ -1,6 +1,6 @@
 /*
 Author: Ian Lim
-Script Date: June 10, 2023
+Script Date: March 10, 2024
 Description: This query finds for each month and country, the number of
 transactions and their total amount, the number of approved transactions and
 their total amount.
